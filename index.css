@@ -81,7 +81,7 @@ body{
 }
 @media (min-width:375px) {
     .cal{
-		height: 70%;
+		height: 75%;
 	}
 }
 @media (min-width:425px) {
